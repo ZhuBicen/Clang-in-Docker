@@ -1,0 +1,1 @@
+clang++ -std=c++2a -stdlib=libc++ -Wall -pedantic $1
